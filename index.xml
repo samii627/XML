@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+    <product_1>
+<id>1234567</id>
+<name>T-shirt</name>
+<price>4$</price>
+<description>"Stylish comfort meets quality in our must-have shirt collection for all."</description>
+</product_1>
+
+<product_1>
+    <id>1234567</id>
+    <name>Pants</name>
+    <price>5$</price>
+    <description>"Stylish comfort meets quality in our must-have pants collection for all."</description>
+    </product_1>
+
+    <product_1>
+        <id>1234567</id>
+        <name>Kurta</name>
+        <price>7$</price>
+        <description>"Stylish comfort meets quality in our must-have kuta collection for all."</description>
+        </product_1>
+
+        <product_1>
+            <id>1234567</id>
+            <name>Shoes</name>
+            <price>30$</price>
+            <description>"Stylish comfort meets quality in our must-have shoes collection for all."</description>
+            </product_1>
+</product>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <worker id="1">
+        <name>Hassan lodhi</name>
+        <work>sales</work>
+        <salary>50000</salary>
+    </worker>
+    <worker id="2">
+        <name>shahji</name>
+        <work>SEO</work>
+        <salary>30000</salary>
+    </worker>
+    <worker id="3">
+        <name>iffi</name>
+        <work>manager</work>
+        <salary>100000</salary>
+    </worker>
+</company>
